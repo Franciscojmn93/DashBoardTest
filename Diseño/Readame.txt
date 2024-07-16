@@ -1,0 +1,2 @@
+Diseño del DashBoard y plantillas para imprimir, iconos con los tamaños arreglados y demas recursos para construir el DashBoard.
+DashBoard design and printable templates, icons with arranged sizes and other resources to build the DashBoard.
